@@ -263,7 +263,7 @@ npm run dev
 
 ## Environment Examples
 
-**backend/.env.example**
+**backend/.env**
 
 ```ini
 DATABASE_URL=postgresql+psycopg2://bitbash:bitbash@localhost:5432/bitbash_jobs
@@ -272,7 +272,7 @@ FLASK_RUN_PORT=5001
 CORS_ORIGINS=http://localhost:5173
 ```
 
-**job-frontend/.env.example**
+**job-frontend/.env**
 
 ```ini
 VITE_API_BASE=http://localhost:5001/api
