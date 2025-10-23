@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* simple scrollbar */
+* { scrollbar-width: thin; }
